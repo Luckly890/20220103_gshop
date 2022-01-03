@@ -10,7 +10,7 @@ import FooterGuide from "./components/FooterGuide/FooterGuide.vue";
 export default {
  async mounted() {
    const result=await reqFoodTypes()
-   console.log(result)  
+   //console.log(result)  
  },
   components: {
     FooterGuide,
