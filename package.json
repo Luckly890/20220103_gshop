@@ -14,10 +14,12 @@
     "ajv": "^5.0.0",
     "ajv-keywords": "^2.1.1",
     "axios": "^0.24.0",
+    "module": "^1.2.5",
     "stylus-loader": "^3.0.1",
     "swiper": "^4.2.6",
     "vue": "^2.5.2",
-    "vue-router": "^3.5.3"
+    "vue-router": "^3.5.3",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
