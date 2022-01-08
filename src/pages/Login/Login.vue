@@ -9,7 +9,7 @@
           </div>
         </div>
         <div class="login_content">
-          <form>
+          <form> 
             <div  :class="{on:loginWay}">
               <section class="login_message">
                 <input type="tel" maxlength="11" placeholder="手机号">
